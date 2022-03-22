@@ -1,0 +1,11 @@
+git init = Iniciar o repositório na máquina local.
+
+git status = Apresenta informações sobre os ultimos commits, brachs e arquivos do projeto.
+
+git add = Adiciona um arquivo ao GIT
+
+git commit -m "texto" =  Esse comando da um "commit" dos arquivos que está no GIT, com o nome que voce desejar.
+
+git remote add origin = Fazer a conexão entre o GIT e GitHub
+
+git push -u origin master = Envia os arquivos para o GitHub
