@@ -1,6 +1,6 @@
 git init = Iniciar o repositório na máquina local.
 
-git status = Apresenta informações sobre os ultimos commits, brachs e arquivos do projeto.
+git status = Apresenta informações sobre os ultimos commits, branchs e arquivos do projeto.
 
 git add = Adiciona um arquivo ao GIT
 
